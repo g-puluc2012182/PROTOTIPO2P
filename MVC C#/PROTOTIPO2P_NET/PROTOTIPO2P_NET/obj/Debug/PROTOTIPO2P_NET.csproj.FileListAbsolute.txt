@@ -1,0 +1,16 @@
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\PROTOTIPO2P_NET.exe.config
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\PROTOTIPO2P_NET.exe
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\PROTOTIPO2P_NET.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\CapaVista.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\CapaControlador.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\CapaModelo.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\CapaVista.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\CapaControlador.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\bin\Debug\CapaModelo.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.Properties.Resources.resources
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.csproj.GenerateResource.cache
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.csproj.CopyComplete
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.exe
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P_NET\PROTOTIPO2P_NET\obj\Debug\PROTOTIPO2P_NET.pdb

@@ -1,0 +1,13 @@
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Epa Peri\source\repos\PROTOTIPO2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
